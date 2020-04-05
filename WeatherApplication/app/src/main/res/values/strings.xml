@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather Application</string>
+    <string name="temperature">Temperature:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="maximum_temperature">Maximum Temperature:</string>
+    <string name="minimum_temperature">Minimum Temperature:</string>
+    <string name="TEMPUNIT">%1$d C°</string>
+    <string name="PRESSUNIT">%1$d Pa</string>
+    <string name="HUMIDITYUNIT">%1$d %%</string>
+</resources>
